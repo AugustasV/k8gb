@@ -1,3 +1,5 @@
+github.com/AbsaOSS/env-binder v1.0.0 h1:TwDcooL87BdR7NTsG2XbQpIj7KrhPU7Es7vxDKHJUB8=
+github.com/AbsaOSS/env-binder v1.0.0/go.mod h1:B48qTr35jCMHNqghPQxqaXdom2s9O3aOk3dOaWI7OQU=
 bazil.org/fuse v0.0.0-20160811212531-371fbbdaa898/go.mod h1:Xbm+BRKSBEpa4q4hTSxohYNQpsxXPbPry4JJWOB3LB8=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
